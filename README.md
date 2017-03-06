@@ -1,6 +1,6 @@
 # A-Javascript-State-Machine
 
-This repository contains the code described in the ebook "A Javascript State Machine" by J Adrian Zimmer.  The book is currently available for free on Amazon.  
+This repository contains the code described in the ebook "A Javascript State Machine" by J Adrian Zimmer.  The book is currently available for free on Amazon.  The code shown in lookup.js is the same as appears in the book.
 
 Here is the preface:
 
