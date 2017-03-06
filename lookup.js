@@ -1,5 +1,3 @@
-edit number shares in output examples
-
 "use strict";
 
 var tradeDir = path.join(process.cwd(), 'trades');
